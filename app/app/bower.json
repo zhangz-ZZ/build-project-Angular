@@ -1,0 +1,28 @@
+{
+  "name": "app",
+  "authors": [
+    "ZZ <543715239@qq.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "jquery": "^3.3.1",
+    "bootstrap": "^4.1.3",
+    "async": "^2.6.1",
+    "lodash": "^4.17.11",
+    "moment": "^2.23.0",
+    "popper.js": "^1.14.7",
+    "proj4": "^2.5.0"
+  }
+}

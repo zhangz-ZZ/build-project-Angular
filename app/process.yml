@@ -1,0 +1,7 @@
+apps:
+- script: ./app.js
+  name: "forestFire-APP"
+  instances: 1
+  watch: false
+  env: 
+    PORT: 4130
